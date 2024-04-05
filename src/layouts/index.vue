@@ -4,8 +4,8 @@
 </template>
 
 <script>
-import TheMain from './TheMain.vue';
-import TheSide from './TheSide.vue';
+import TheMain from '@/layouts/TheMain.vue';
+import TheSide from '@/layouts/TheSide.vue';
 export default {
     components:{
 		TheMain,
